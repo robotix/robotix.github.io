@@ -28,10 +28,10 @@ actions:
   -
     text: 'P'
     caption: 'Total prize money worth Rs 50,000'
-#   -
-#     text: 'R'
-#     caption: 'Register'
-#     link: https://ktj.in/index.php/register
+  -
+    text: 'R'
+    caption: 'Register'
+    link: https://ktj.in/#/event/Voyager
 #   -
 #     text: 'F'
 #     caption: 'F.A.Q.'
