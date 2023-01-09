@@ -123,11 +123,11 @@ Obstacles are for blocking the path of the ball/bot, and touching it would not l
 
 ##### Robot Specification
 
-*   Size must be within length = 20 cm(0.656 ft), width = 20 cm(0.656 ft), height = 25 cm(0.820 ft) with a tolerance of 10%.
+*   Size must be within length = 25 cm(0.820 ft), width = 25 cm(0.820 ft), height = 25 cm(0.820 ft) with a tolerance of 10%.
 
 *   The wires should be bound into a single strand. Furthermore, a fixture is to be added such that wire comes out of the top of the robot.
 
-*   Maximum weight = 2 kg with a tolerance of 10%.
+*   Maximum weight = 3 kg with a tolerance of 10%.
 
 *   The bot may have a kicking/shooting mechanism, but the extension should not increase the length/width of the bot by more than 5 cm (0.131ft).
 
@@ -217,17 +217,19 @@ In all cases, the decision of the organising team would be considered final and 
 
 **Links to Tutorials**
 
-For relevant tutorials check [ROBOTIX TUTORIALS](/tutorial/).
+For relevant tutorials check [TUTORIALS](/tutorial/event/crossfire).
 
 ##### Contact
 
 ###### Tanmay Mohanty
+Head, Technology Robotix Society
 
 Email: **[tanmay.mohanty18112002@gmail.com](mailto:tanmay.mohanty18112002@gmail.com)**
 
 Ph. no: **+91 9002921996**
 
 ###### Yashi Gaur
+Head, Technology Robotix Society
 
 Email: **[yashigaurbcgs@gmail.com](mailto:yashigaurbcgs@gmail.com)**
 
