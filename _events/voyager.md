@@ -298,17 +298,19 @@ In case of a tie, below is the preference order for a tiebreaker:
 
 **Links to Tutorials:**
 
-For relevant tutorials check [ROBOTIX TUTORIALS](/tutorial/).
+For relevant tutorials check [TUTORIALS](/tutorial/event/voyager).
 
 ##### Contact
 
 ###### Ayush Deep
+Head, Technology Robotix Society
 
 Email: **[ayushdeep2001@gmail.com](mailto:ayushdeep2001@gmail.com)**
 
 Ph. no: **+91 6205861948**
 
 ###### Diya Chodnekar
+Head, Technology Robotix Society
 
 Email: **[diya.chodnekar@gmail.com](mailto:diya.chodnekar@gmail.com)**
 
