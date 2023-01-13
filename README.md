@@ -32,7 +32,7 @@ and run next command from root folder:
 
 To start Jekyll run:
 ```bash
-    bundle exec jekyll serve -w --incremental -b ""
+    bundle exec jekyll serve -w --incremental --baseurl=""
 ```
 
 **NOTE:** in this mode all changes to html and data files will be automatically regenerated, but after changing ```_config.yml``` you have to restart server.
