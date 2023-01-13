@@ -283,17 +283,6 @@
         - {name: "email", link: "mailto:abhinavviju.p@gmail.com"}
     -
       id: 140
-      name: Aditi
-      surname: Patil
-      title: "Sub Head"
-      thumbnailUrl: 2022_aditi.jpg
-      team: true
-      social:
-        - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100074046016442"}
-        - {name: "github", link: "https://github.com/adi3022"}
-        - {name: "email", link: "mailto:aditipatil2203@gmail.com"}
-    -
-      id: 141
       name: Aditya
       surname: Nandy
       title: "Sub Head"
@@ -303,7 +292,7 @@
         - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100076763501015"}
         - {name: "email", link: "mailto:adityanandy2802@gmail.com"}
     -
-      id: 142
+      id: 141
       name: Akshay
       surname: S Menon
       title: "Sub Head"
@@ -314,7 +303,7 @@
         - {name: "github", link: "https://github.com/Akshay7432"}
         - {name: "email", link: "mailto:akshaysmenon2003@gmail.com"}
     -
-      id: 143
+      id: 142
       name: Amrit
       surname: Lal Singh
       title: "Sub Head"
@@ -325,7 +314,7 @@
         - {name: "github", link: "https://github.com/amrit-lal-singh"}
         - {name: "email", link: "mailto:amritlalsingh9920@kgpian.iitkgp.ac.in"}
     -
-      id: 144
+      id: 143
       name: Ishaan
       surname: Bajaj
       title: "Sub Head"
@@ -336,7 +325,7 @@
         - {name: "github", link: "https://github.com/ishaan-bajaj"}
         - {name: "email", link: "mailto:bajaj.ishaan09@gmail.com"}
     -
-      id: 145
+      id: 144
       name: Parth
       surname: Gupta
       title: "Sub Head"
@@ -347,7 +336,7 @@
         - {name: "github", link: "https://github.com/ParthGupta2510"}
         - {name: "email", link: "mailto:parthgupta2510@gmail.com"}
     -
-      id: 146
+      id: 145
       name: Parthivi
       surname: Gupta
       title: "Sub Head"
@@ -358,7 +347,7 @@
         - {name: "github", link: "https://github.com/Parthivi-9"}
         - {name: "email", link: "mailto:guptaparthvi@gmail.com"}
     -
-      id: 147
+      id: 146
       name: Prasanna
       surname: Paithankar
       title: "Sub Head"
@@ -369,7 +358,7 @@
         - {name: "github", link: "https://github.com/PrasannaPaithankar"}
         - {name: "email", link: "mailto:paithankarprasanna@kgpian.iitkgp.ac.in "}
     -
-      id: 148
+      id: 147
       name: Siddharth
       surname: Asthana
       title: "Sub Head"
@@ -380,7 +369,7 @@
         - {name: "github", link: "https://github.com/SID10007"}
         - {name: "email", link: "mailto:asthanasiddharth2002@gmail.com"}
     -
-      id: 149
+      id: 148
       name: Somya
       surname: Kumar
       title: "Sub Head"
@@ -391,7 +380,7 @@
         - {name: "github", link: "https://github.com/somya-kr"}
         - {name: "email", link: "mailto:somyakumar958@gmail.com"}
     -
-      id: 150
+      id: 149
       name: Subhrojyoti
       surname: Mukherjee
       title: "Sub Head"
@@ -401,7 +390,7 @@
         - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100073392733438"}
         - {name: "email", link: "mailto:subhrojm@gmail.com"}
     -
-      id: 151
+      id: 150
       name: Tanushree
       surname: Prasad
       title: "Sub Head"
@@ -412,7 +401,7 @@
         - {name: "github", link: "https://github.com/TanushreePrasad"}
         - {name: "email", link: "mailto:tanushreesidhi@gmail.com"}
     -
-      id: 152
+      id: 151
       name: Vivek
       surname: Mirani
       title: "Sub Head"
