@@ -17,10 +17,10 @@ actions:
     text: 'E'
     caption: 'Event PDF'
     link: '/assets/event/Voyager.pdf'
-#   -
-#     text: 'D'
-#     caption: 'Do-It-Yourself'
-#     link: '/img/event/tesseract/diy.png'
+  -
+    text: 'D'
+    caption: 'Do-It-Yourself'
+    link: '/img/event/voyager/diy.png'
   -
     text: 'T'
     caption: 'Tutorial'
