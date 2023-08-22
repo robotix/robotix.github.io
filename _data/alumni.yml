@@ -1,4 +1,83 @@
-- title: "2022"
+-title: "2023"
+  team:
+    -
+     id: 119
+      name: Arun 
+      surname: Nair
+      thumbnailUrl: 2022_arun.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100039700779106"}        
+        - {name: "email", link: "mailto:nairarun261@gmail.com"}
+    -
+      id: 109
+      name: Azad 
+      surname: Jagtap
+      thumbnailUrl: azadjagtap.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://m.facebook.com/profile.php?refid=8"}
+        - {name: "github", link: "https://github.com/jagtapazad"}        
+        - {name: "email", link: "mailto:jagtapazad@gmail.com"}
+    -
+      id: 110
+      name: Divyanshu 
+      surname: Sheth
+      thumbnailUrl: divyanshusheth.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/divyanshu.sheth"}
+        - {name: "email", link: "mailto:shethdivyanshu2000@gmail.com"}
+    -
+      id: 111
+      name: Kartik 
+      surname: Punjabi
+      thumbnailUrl: kartikpunjabi.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/kartik.punjabi"}
+        - {name: "github", link: "http://github.com/kartikpunjabi111"}
+        - {name: "email", link: "mailto:kartik.punjabi111@gmail.com"}
+    -
+      id: 113
+      name: Kshitiz
+      surname: Khandelwal
+      thumbnailUrl: kshitizkhandelwal.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/kshitiz.khandelwal.90"}
+        - {name: "github", link: "https://github.com/kshitizkhandelwal"}
+        - {name: "email", link: "kshitizkhandelwal1999@gmail.com"} 
+    -
+      id: 116
+      name: Ruthu  
+      surname: Sanketh
+      thumbnailUrl: ruthusanketh.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/ruthu.sanketh"}
+        - {name: "email", link: "mailto:ruthu.sankethi@gmail.com"} 
+    -
+      id: 114
+      name: Nanda 
+      surname: Vinod
+      thumbnailUrl: nandavinod.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/nanda.vinod.5"}
+        - {name: "github", link: "https://github.com/nanda17nuts/IPprog"}
+        - {name: "email", link: "mailto:nanda17astr10@gmail.com"} 
+    -
+      id: 115
+      name: Rashmi  
+      surname: Kashyap
+      thumbnailUrl: rashmikashyap.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/rashmi.kasyap.39"}
+        - {name: "email", link: "mailto:rashmikvc@gmail.com"}
+
+-title: "2022"
   team:
     -
       id: 60
