@@ -17,7 +17,6 @@
       title: "Coordinator"
       thumbnailUrl: 2022_ananta.jpg
       team: true
-      tag: Governor
       social:
         - {name: "facebook", link: "https://www.facebook.com/ananta.raj.77"}   
         - {name: "github", link: "https://github.com/rajanant49"}     
@@ -272,13 +271,13 @@
         - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100075615693685"}
         - {name: "github", link: "https://github.com/Vivek-Mirani"}
         - {name: "email", link: "mailto:vivekmirani19@gmail.com"}
--title: Sub-Head
- team:
+- title: "Sub Head"
+  team:
     -
       id: 152
       name: Swaminathan
       surname: S K
-      title: "Sub-Head"
+      title: "Sub Head"
       thumbnailUrl: 2023_swaminathan.jpg
       team: true
       social:
@@ -289,7 +288,7 @@
       id: 153
       name: Parag
       surname: Agarwal
-      title: "Sub-Head"
+      title: "Sub Head"
       thumbnailUrl: 2023_parag.jpeg
       team: true
       social:
@@ -300,7 +299,7 @@
       id: 154
       name: U Skanda
       surname: Aithal
-      title: "Sub-Head"
+      title: "Sub Head"
       thumbnailUrl: 2023_skanda.jpg
       team: true
       social:
@@ -311,7 +310,7 @@
       id: 155
       name: Prakhar
       surname: Tripathi
-      title: "Sub-Head"
+      title: "Sub Head"
       thumbnailUrl: 2023_prakhar.jpg
       team: true
       social:
@@ -322,7 +321,7 @@
       id: 156
       name: Divyansh
       surname: Sharma
-      title: "Sub-Head"
+      title: "Sub Head"
       thumbnailUrl: 2023_divyansh.jpg
       team: true
       social:
@@ -333,7 +332,7 @@
       id: 157
       name: Muskan
       surname: Khemka
-      title: "Sub-Head"
+      title: "Sub Head"
       thumbnailUrl: 2023_muskan.jpg
       team: true
       social:
@@ -344,18 +343,18 @@
       id: 158
       name: Shreyansh
       surname: Kansal
-      title: "Sub-Head"
+      title: "Sub Head"
       thumbnailUrl: 2023_shreyansh.jpg
       team: true
       social:
-        - {name: "facebook", link:"https://www.facebook.com/profile.php?id=100087269887034}
+        - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100087269887034"}
         - {name: "github", link: "https://github.com/shreyanshkansal"}
         - {name: "email", link: "kansalshreyansh@gmail,com"}
     -
       id: 159
       name: Meera
       surname: Nair
-      title: "Sub-Head"
+      title: "Sub Head"
       thumbnailUrl: 2023_meera.jpg
       team: true
       social:
@@ -366,7 +365,7 @@
       id: 160
       name: Shayon 
       surname: Mitra
-      title: "Sub-Head"
+      title: "Sub Head"
       thumbnailUrl: 2023_shayon.jpg
       team: true
       social:
@@ -377,7 +376,7 @@
       id: 161
       name: Yash
       surname: Kumar
-      title: "Sub-Head"
+      title: "Sub Head"
       thumbnailUrl: 2023_yash.jpg
       team: true
       social:
@@ -388,7 +387,7 @@
       id: 162
       name: Pranav Mangal
       surname: Pandey
-      title: "Sub-Head"
+      title: "Sub Head"
       thumbnailUrl: 2023_pranav.jpg
       team: true
       social:
@@ -399,7 +398,7 @@
       id: 163
       name: Suditi
       surname: Mandal
-      title: "Sub-Head"
+      title: "Sub Head"
       thumbnailUrl: 2023_suditi.jpg
       team: true
       social:
