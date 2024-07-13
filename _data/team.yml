@@ -341,17 +341,6 @@
         - {name: "email", link: "21muskankhemka@gmail.com"}
     -
       id: 158
-      name: Shreyansh
-      surname: Kansal
-      title: "Sub Head"
-      thumbnailUrl: 2023_shreyansh.jpg
-      team: true
-      social:
-        - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100087269887034"}
-        - {name: "github", link: "https://github.com/shreyanshkansal"}
-        - {name: "email", link: "kansalshreyansh@gmail,com"}
-    -
-      id: 159
       name: Meera
       surname: Nair
       title: "Sub Head"
@@ -362,7 +351,7 @@
         - {name: "github", link: "https://github.com/meeranair186"}
         - {name: "email", link: "meeranair108@gmail.com"}
     -
-      id: 160
+      id: 159
       name: Shayon 
       surname: Mitra
       title: "Sub Head"
@@ -373,18 +362,7 @@
         - {name: "github", link: "https://github.com/ShayonMitra"}
         - {name: "email", link: "shayonmitra007@gmail.com"}
     -
-      id: 161
-      name: Yash
-      surname: Kumar
-      title: "Sub Head"
-      thumbnailUrl: 2023_yash.jpg
-      team: true
-      social:
-        - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100088345870260&mibextid=ZbWKwL"}
-        - {name: "github", link: "https://github.com/yashkumar2603"}
-        - {name: "email", link: "yash.2603kumar@gmail.com"}
-    -
-      id: 162
+      id: 160
       name: Pranav Mangal
       surname: Pandey
       title: "Sub Head"
@@ -395,7 +373,7 @@
         - {name: "github", link: }
         - {name: "email", link: "pranav.m.pandey43@gmail.com"}
     -
-      id: 163
+      id: 161
       name: Suditi
       surname: Mandal
       title: "Sub Head"
