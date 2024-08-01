@@ -157,17 +157,6 @@
         - {name: "email", link: "paragagarwal2003@gmail.com"}
     -
       id: 154
-      name: U Skanda
-      surname: Aithal
-      title: "Head"
-      thumbnailUrl: 2023_skanda.jpg
-      team: true
-      social:
-        - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100086977592396&mibextid=ZbWKwL"}
-        - {name: "github", link: "https://github.com/SkandaAithal-1"}
-        - {name: "email", link: "aithalskanda66@gmail.com"}
-    -
-      id: 155
       name: Prakhar
       surname: Tripathi
       title: "Head"
@@ -179,7 +168,7 @@
         - {name: "github", link: "https://github.com/Prakhar1230"}
         - {name: "email", link: "prakhartripathi0803@gmail.com"} 
     -
-      id: 156
+      id: 155
       name: Divyansh
       surname: Sharma
       title: "Head"
@@ -190,6 +179,17 @@
         - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100087898983141"}
         - {name: "github", link: "https://github.com/lord-TACO-81"}
         - {name: "email", link: "div.sh81@gmail.com"}
+    -
+      id: 156
+      name: U Skanda
+      surname: Aithal
+      title: "Head"
+      thumbnailUrl: 2023_skanda.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100086977592396&mibextid=ZbWKwL"}
+        - {name: "github", link: "https://github.com/SkandaAithal-1"}
+        - {name: "email", link: "aithalskanda66@gmail.com"}
     -
       id: 157
       name: Muskan
