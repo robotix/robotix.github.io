@@ -1,26 +1,5 @@
 - title: "Coordinator"
   team:
-    -  
-      id: 131
-      name: Harmeet
-      surname: Singh Rathore
-      title: "Coordinator"
-      thumbnailUrl: Harmeet.jpg
-      team: true
-      social:
-        - {name: "facebook", link: "https://www.facebook.com/harmeet.singhrath/"}
-        - {name: "github", link: "https://github.com/Harmeet-S-R"}
-        - {name: "email", link: "mailto:Harmeet.s.rathore@gmail.com"}
-    -
-      id: 138
-      name: Yashi
-      surname: Gaur
-      title: "Coordinator"
-      thumbnailUrl: Yashi.jpg
-      team: true
-      social:
-        - {name: "facebook", link: "https://www.facebook.com/yashi.gaur.104418"}
-        - {name: "email", link: "mailto:yashigaurbcgs@gmail.com"}
     -
       id: 139
       name: Abhinav
@@ -64,6 +43,17 @@
         - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100076869431636"}
         - {name: "github", link: "https://github.com/amrit-lal-singh"}
         - {name: "email", link: "mailto:amritlalsingh9920@kgpian.iitkgp.ac.in"}
+    -  
+      id: 131
+      name: Harmeet
+      surname: Singh Rathore
+      title: "Coordinator"
+      thumbnailUrl: Harmeet.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/harmeet.singhrath/"}
+        - {name: "github", link: "https://github.com/Harmeet-S-R"}
+        - {name: "email", link: "mailto:Harmeet.s.rathore@gmail.com"}
     -
       id: 144
       name: Parth
@@ -130,6 +120,16 @@
         - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100075615693685"}
         - {name: "github", link: "https://github.com/Vivek-Mirani"}
         - {name: "email", link: "mailto:vivekmirani19@gmail.com"}
+    -
+      id: 138
+      name: Yashi
+      surname: Gaur
+      title: "Coordinator"
+      thumbnailUrl: Yashi.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/yashi.gaur.104418"}
+        - {name: "email", link: "mailto:yashigaurbcgs@gmail.com"}
     
 - title: "Head"
   team:
