@@ -206,7 +206,7 @@
       name: Meera
       surname: Nair
       title: "Head"
-      thumbnailUrl: 2023_meera.jpg
+      thumbnailUrl: 2023_meera.HEIC
       team: true
       social:
         - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100087117837999&mibextid=LQQJ4d"}
