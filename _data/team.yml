@@ -206,7 +206,7 @@
       name: Meera
       surname: Nair
       title: "Head"
-      thumbnailUrl: 2023_meera.HEIC
+      thumbnailUrl: 2023_meera.jpg
       team: true
       social:
         - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100087117837999&mibextid=LQQJ4d"}
@@ -305,17 +305,6 @@
         - {name: "email", link: "johnfelix2911@gmail.com"}
     -
       id: 167
-      name: M S Harihara 
-      surname: Sudhan
-      title: "Sub Head"
-      thumbnailUrl: 2024_hari.jpg
-      team: true
-      social:
-        - {name: "facebook", link: "https://www.facebook.com/profile.php?id=61550124116384&mibextid=2JQ9oc"}
-        - {name: "github", link: ""}
-        - {name: "email", link: "hariharasudhanms12@gmail.com"}
-    -
-      id: 168
       name: Manish
       surname: Kundu
       title: "Sub Head"
@@ -326,7 +315,7 @@
         - {name: "github", link: "https://www.github.com/manishk1332"}
         - {name: "email", link: "manishkundu21@outlook.com"}
     -
-      id: 169
+      id: 168
       name: Pratyush
       surname: Mishra
       title: "Sub Head"
@@ -337,18 +326,18 @@
         - {name: "github", link: "https://github.com/PratyushKGP2024"}
         - {name: "email", link: "pratyushmishra0810@gmail.com"}
       -
-      id: 170
+      id: 169
       name: Rishith
       surname: Susarla
       title: "Sub Head"
-      thumbnailUrl: 2024_rishith.HEIC
+      thumbnailUrl: 2024_rishith.jpg
       team: true
       social:
         - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100095196537148&mibextid=avESrC"}
         - {name: "github", link: "https://github.com/rsusarla22"}
         - {name: "email", link: "rsusarla22@gmail.com"}
       -
-      id: 171
+      id: 170
       name: Samarth
       surname: G
       title: "Sub Head"
@@ -359,7 +348,7 @@
         - {name: "github", link: "https://github.com/Sammy181"}
         - {name: "email", link: "samarthg1804@gmail.com"}
       -
-      id: 172
+      id: 171
       name: Shrreya
       surname: Rajneesh
       title: "Sub Head"
