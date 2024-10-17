@@ -1,7 +1,18 @@
 # Plugins
 plugins:
+- jekyll-github-metadata
+- jekyll-seo-tag
 - jekyll-redirect-from
 - jekyll-paginate
+- jekyll-coffeescript
+- jekyll-commonmark-ghpages
+- jekyll-gist
+- jekyll-github-metadata
+- jekyll-relative-links
+- jekyll-optional-front-matter
+- jekyll-readme-index
+- jekyll-default-layout
+- jekyll-titles-from-headings
 safe: false
 
 # Build Settings
