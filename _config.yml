@@ -78,7 +78,7 @@ bottomNavigationLinks:
 # Hero Block
 heroImage: "hero.png"
 heroTitle: "<typeout>"
-eventDate: "20th Jan - 22nd Jan, 2023"
+  #eventDate: "20th Jan - 22nd Jan, 2023"  # Use this if any major event
 typeoutTextValues: '"Technology Robotix Society", "Where Machines Dare!", "#GearUp", "Robotix 2023"'
 typeoutFallback: "Technology Robotix Society"
 heroButtons:
