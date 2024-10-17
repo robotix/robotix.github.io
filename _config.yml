@@ -20,7 +20,6 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 exclude: [vendor, scripts, README.md, LICENSE.txt, CNAME]
-remote_theme: pages-themes/primer@v0.2.0
 
 # remote_theme: pages-themes/cayman@v0.2.0
 # plugins:
